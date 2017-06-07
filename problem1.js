@@ -1,9 +1,11 @@
-//Problem 1: Find the sum of all the multiples of 3 or 5 below 1000.
+/*Problem 1: Find the sum of all the multiples of 3 or 5 below 1000.
 
-//pseudocode:
-//1. make an array 
-//2. add all numbers that are multiples of 3 or 5 below 1000 to array
-//3. sum up the array
+pseudocode:
+1. make an array 
+2. add all numbers that are multiples of 3 or 5 below 1000 to array
+3. sum up the array
+
+*/
 
 //make an array
 A = [];
